@@ -1,7 +1,8 @@
-Hi There!
+<h1>Hi There!</h1>
 
+<br/>
 
-My name is <h1>Kaya ATASOY</h1>, a Software Developer from Turkey.
+My name is Kaya ATASOY, a Software Developer from Turkey.
 
 
 I build websites and web apps with best practices and clean code.
