@@ -27,28 +27,33 @@ Looking for full-time remote opportunities! If you'd like to collaborate or hire
     <th>React, NodeJS & NextJS Projects</th>
     <th>Website</th>
   </tr>
- <tr>
+  <tr>
     <td>1</td>
+    <td>Easy Auth | Fully Featured Credentials System</td>
+    <td> <a href='https://easy-auth.onrender.com' target='_blank'>Live Project</a> </td>
+  </tr>
+ <tr>
+    <td>2</td>
     <td>Melodia | Web Music Player</td>
     <td> <a href='https://melodia-aaln.onrender.com/' target='_blank'>Live Project</a> </td>
   </tr>
    <tr>
-    <td>2</td>
+    <td>3</td>
     <td>Hutlet | Hut Booking Application</td>
     <td> <a href='https://hutlet-cabins.vercel.app/' target='_blank'>Live Project</a> </td>
   </tr>
  <tr>
-    <td>3</td>
+    <td>4</td>
     <td>Touch | Realtime Chat Application</td>
     <td> <a href='https://touch-chkm.onrender.com/' target='_blank'>Live Project</a> </td>
   </tr>
  <tr>
-    <td>4</td>
+    <td>5</td>
     <td>Kaya ATASOY | Personal Website</td>
     <td> <a href='https://www.kaya-atasoy.site/' target='_blank'>Live Project</a> </td>
   </tr>
  <tr>
-    <td>5</td>
+    <td>6</td>
     <td>Caffiend | Caffeine Consumption Tracker</td>
     <td> <a href='https://trackwithcaffiend.netlify.app/' target='_blank'>Live Project</a> </td>
   </tr>
