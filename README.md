@@ -24,6 +24,19 @@ Looking for full-time remote opportunities! If you'd like to collaborate or hire
 <table>
   <tr>
     <th>#</th>
+    <th>Visually Appealing React & NextJS Pages</th>
+    <th>Website</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>adCarrot | Professional Ad Agency</td>
+    <td> <a href='https://ad-carrot-tau.vercel.app/' target='_blank'>Live Project</a> </td>
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <th>#</th>
     <th>React, NodeJS & NextJS Projects</th>
     <th>Website</th>
   </tr>
